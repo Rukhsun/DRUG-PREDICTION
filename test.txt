@@ -1,0 +1,1 @@
+Decision tree classifier has been used here for prediction
